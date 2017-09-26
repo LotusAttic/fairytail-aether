@@ -4,9 +4,9 @@
 
 Daidson Fonseca Alves
 
-=== Group NN: group name ===
+=== Group: Aragorn  ===
 
-* Nome Aluno 1 Completo, @githubuser1
+* Mayara Juvencio Da Silva Gomes, @mayarajuvencio
 * Nome Aluno 2 Completo, @githubuser2
 * ...
 
