@@ -4,9 +4,9 @@
 
 Daidson Fonseca Alves
 
-=== Group : aragorn ===
+=== Group: Aragorn  ===
 
-* Joao Vitor De Oliveira Silva, @Mechanichs
+* Mayara Juvencio Da Silva Gomes, @mayarajuvencio
 * Nome Aluno 2 Completo, @githubuser2
 * ...
 
