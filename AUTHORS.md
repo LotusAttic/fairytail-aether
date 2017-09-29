@@ -8,5 +8,5 @@ Daidson Fonseca Alves
 
 * Mayara Juvencio Da Silva Gomes, @mayarajuvencio
 * Rafael Aziz Da Silva Rocha, @Rafaziz
-* ...
+* Joao Vitor De Oliveira Silva, @Mechanichs
 
