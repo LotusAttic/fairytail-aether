@@ -140,7 +140,7 @@ void copyr(void); /* print version and copyright information */
 int main(void)
 {
     /* local declarations */
-    in i; /* general index */
+    int i; /* general index */
     char s[SBUFF]; /* a string to hold ... */
 
 
