@@ -7,6 +7,6 @@ Daidson Fonseca Alves
 === Group: Aragorn  ===
 
 * Mayara Juvencio Da Silva Gomes, @mayarajuvencio
-* Nome Aluno 2 Completo, @githubuser2
-* ...
+* Rafael Aziz Da Silva Rocha, @Rafaziz
+* Joao Vitor De Oliveira Silva, @Mechanichs
 
